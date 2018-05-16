@@ -2,8 +2,8 @@
 =====
 包括
 -----
-*Jenkins/Git/Python/Selenium
+Jenkins/Git/Python/Selenium
 
 涉及
 -----
-*持续集成/爬虫/代码审查/自动化测试/性能测试/安全测试
+持续集成/爬虫/代码审查/自动化测试/性能测试/安全测试
